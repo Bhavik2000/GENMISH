@@ -1,0 +1,1 @@
+enum SelectValue { mandatory, random }

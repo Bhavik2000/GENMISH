@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180944699203",
+    "firebase_url": "https://feedback-e7a03.firebaseio.com",
+    "project_id": "feedback-e7a03",
+    "storage_bucket": "feedback-e7a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180944699203:android:91a68ab2405fcba822f9f6",
+        "android_client_info": {
+          "package_name": "com.example.FeedBack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180944699203-2l4of6kahl1sfa4egc7hn212qe04bksl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsS3JQQXywI9oI3AecuilJtYcdpuxPjOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180944699203-2l4of6kahl1sfa4egc7hn212qe04bksl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
